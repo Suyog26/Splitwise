@@ -10,3 +10,6 @@ go to backend folder > open terminal and run below code
 then next command 
 
     npm start
+
+## to run frontend 
+all the frontend commands are shown in frontend folder readme file 
